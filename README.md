@@ -11,6 +11,8 @@
 ## Project structure:
 
 ```go
+portscan
+│
 ├── go.mod
 ├── LICENSE
 ├── portscan.go
